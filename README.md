@@ -7,9 +7,9 @@
 
 
 ## 💫 About Me
-iOS Engineer with **3+ years of professional experience** designing, developing, and releasing **production-grade native iOS applications**. I specialize in building scalable, high-performance apps using **Swift, SwiftUI, UIKit, Combine, and Async/Await**, with a strong focus on **clean architecture, maintainability, and user experience**.
+iOS Engineer with **3+ years of professional experience** designing, developing, and releasing **production-grade native iOS applications**. I specialize in building scalable, high performance apps using **Swift, SwiftUI, UIKit, Combine, and Async/Await**, with a strong focus on **clean architecture, maintainability, and user experience**.
 
-I enjoy owning features end-to-end — from technical design and implementation to App Store release and post-launch optimization — and collaborating closely with **Product, Design, and Backend teams** to deliver robust, user-centric mobile solutions.
+I enjoy owning features end-to-end from technical design and implementation to App Store release and post-launch optimization and collaborating closely with **Product, Design, and Backend teams** to deliver robust, user centric mobile solutions.
 
 ---
 
@@ -18,7 +18,7 @@ I enjoy owning features end-to-end — from technical design and implementation 
 - **Architectures & Design Patterns:** MVVM, VIPER, MVP, Clean Architecture, Modular App Design  
 - **Concurrency & Performance:** Async/Await, GCD, Structured Concurrency, profiling with Xcode Instruments  
 - **UI/UX & Apple Guidelines:** Auto Layout, accessibility, adaptive layouts, Human Interface Guidelines  
-- **Data & Persistence:** Core Data, SwiftData, local caching, offline-first workflows  
+- **Data & Persistence:** Core Data, SwiftData, local caching, offline first workflows  
 - **Networking:** REST APIs, GraphQL, JSON, URLSession, WebSockets  
 - **Testing & Quality:** Unit & UI testing (XCTest), regression testing, crash analysis, code reviews  
 - **Release & Monitoring:** TestFlight, Firebase Distribution, Crashlytics, App Store submissions  
@@ -137,13 +137,3 @@ University of Gujrat — Pakistan
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=tayyab304&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab304&theme=dark&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=tayyab304&color=0)](https://visitcount.itsvg.in)
