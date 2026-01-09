@@ -5,14 +5,24 @@
 
 ---
 
+
 ## 💫 About Me
+iOS Engineer with **3+ years of professional experience** designing, developing, and releasing **production-grade native iOS applications**. I specialize in building scalable, high-performance apps using **Swift, SwiftUI, UIKit, Combine, and Async/Await**, with a strong focus on **clean architecture, maintainability, and user experience**.
 
-iOS Engineer with **3+ years of professional experience** building and maintaining **production-grade native iOS applications** using **Swift, SwiftUI, UIKit, Combine, and Async/Await**.<br>
-Strong expertise in **Clean Architecture** (MVVM, VIPER, MVP), **modular app design**, and **performance optimization** using **Xcode Instruments**.<br><br>
+I enjoy owning features end-to-end — from technical design and implementation to App Store release and post-launch optimization — and collaborating closely with **Product, Design, and Backend teams** to deliver robust, user-centric mobile solutions.
 
-I have delivered multiple iOS apps from **technical analysis and architecture design** through **App Store release and post-launch maintenance**. My work focuses on **scalable codebases**, clean UI implementations aligned with **Apple Human Interface Guidelines**, and measurable performance and stability improvements.<br><br>
+---
 
-I currently pursue a **Master’s degree in Natural Language Processing**, working with **Python-based data pipelines, machine learning models, and statistical analysis**. I am particularly interested in bridging **AI-driven insights** with **real-world mobile applications**, especially in user-centric and data-informed features.
+## 📱 iOS Engineering Expertise
+- **Native iOS Development:** Swift, SwiftUI, UIKit, WebKit  
+- **Architectures & Design Patterns:** MVVM, VIPER, MVP, Clean Architecture, Modular App Design  
+- **Concurrency & Performance:** Async/Await, GCD, Structured Concurrency, profiling with Xcode Instruments  
+- **UI/UX & Apple Guidelines:** Auto Layout, accessibility, adaptive layouts, Human Interface Guidelines  
+- **Data & Persistence:** Core Data, SwiftData, local caching, offline-first workflows  
+- **Networking:** REST APIs, GraphQL, JSON, URLSession, WebSockets  
+- **Testing & Quality:** Unit & UI testing (XCTest), regression testing, crash analysis, code reviews  
+- **Release & Monitoring:** TestFlight, Firebase Distribution, Crashlytics, App Store submissions  
+- **Collaboration:** Agile/Scrum environments, Jira, cross-functional teamwork  
 
 ---
 
