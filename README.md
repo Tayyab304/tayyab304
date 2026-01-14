@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tayyab Tariq
 
 📱 iOS Engineer | 🎓 M.Sc. Natural Language Processing  
-📍 Trier, Germany — open to relocate
+📍 Darmstadt, Hessen, Germany — open to relocate
 
 ---
 
@@ -61,6 +61,24 @@ I enjoy owning features end-to-end from technical design and implementation to A
 ---
 
 ## 🚀 Selected Projects
+### 🏊 Q Swim  
+**Swift, UIKit, SwiftData, In-App Purchases**  
+🔗 https://apps.apple.com/au/app/q-swim/id1364009823
+
+- Redesigned core UI for accessibility and consistency.
+- Implemented subscription-based premium features.
+- Enhanced stability and modernized legacy components.
+
+---
+
+### 🏥 Bruce Health  
+**Swift, SwiftUI, Core Data, CoreML**
+
+- Developed an internal medical workflow app.
+- Implemented barcode scanning, document scanning, and offline persistence.
+- Improved operational efficiency for field technicians.
+
+---
 
 ### 🍽 Restaurant Food App  
 **Swift, Objective-C, UIKit, REST APIs**  
@@ -78,25 +96,6 @@ I enjoy owning features end-to-end from technical design and implementation to A
 - Developed the app end-to-end with backend integration.
 - Implemented **In-App Purchases (consumables)** compliant with App Store guidelines.
 - Built optimized photo/video upload workflows.
-
----
-
-### 🏊 Q Swim  
-**Swift, UIKit, SwiftData, In-App Purchases**  
-🔗 https://apps.apple.com/au/app/q-swim/id1364009823
-
-- Redesigned core UI for accessibility and consistency.
-- Implemented subscription-based premium features.
-- Enhanced stability and modernized legacy components.
-
----
-
-### 🏥 Bruce Health  
-**Swift, SwiftUI, Core Data, CoreML**
-
-- Developed an internal medical workflow app.
-- Implemented barcode scanning, document scanning, and offline persistence.
-- Improved operational efficiency for field technicians.
 
 ---
 
