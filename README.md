@@ -47,16 +47,18 @@ I enjoy owning features end-to-end from technical design and implementation to A
 - Actively contributed in **Agile/Scrum teams**, reducing feature delivery cycle time by **15%**.
 - Managed TestFlight deployments and internal testing workflows.
 - Conducted code reviews and collaborated closely with backend and product teams.
+- Migrated key networking flows from completion-handler callbacks to Swift Async/Await, reducing callback nesting
+  and improving code readability across the team.
 
 ---
 
 ### 🛠 IT Support (Werkstudent) — Biebelhausener Mühle  
-🗓 Mar 2025 – Nov 2025 | Germany
+🗓 Mar 2025 – Mar 2025 | Germany
 
 - Supported POS system rollouts across **30+ branches** with <2% downtime.
 - Automated diagnostics and setup workflows, saving **4+ hours per week**.
 - Resolved **70% of issues on first response**.
-- Developed an **Android tablet app using Kotlin**, integrating WebView and NFC.
+- Designed and shipped an internal **Android tablet app using Kotlin**, featuring WebView-based content display and NFC tap-to-action for store   workflows, as the sole developer from spec to deployment.
 
 ---
 
